@@ -4,7 +4,7 @@ The SmartOrderEstimator is a machine learning model designed to predict the orde
 
 ## Dataset
 
-The dataset used for training and evaluating the SmartOrderEstimator model can be downloaded from [here]([https://example.com/dataset](https://drive.google.com/file/d/10ajIB21QsaleubspWE93_vL6_5FkfExJ/view?usp=sharing)).
+The dataset used for training and evaluating the SmartOrderEstimator model can be downloaded from [here](https://drive.google.com/file/d/10ajIB21QsaleubspWE93_vL6_5FkfExJ/view?usp=sharing).
 
 ## Key Features
 
@@ -22,8 +22,7 @@ The dataset used for training and evaluating the SmartOrderEstimator model can b
 ## Installation
 
 1. Clone the repository:
-``` git clone https://github.com/Rkpani05/SmartOrderEstimator-Forecasting-Customer-Order-Amounts-using-Machine-Learning.git
- ```
+```git clone https://github.com/Rkpani05/SmartOrderEstimator-Forecasting-Customer-Order-Amounts-using-Machine-Learning.git```
 
 2. Install the required dependencies:
 ```pip install -r requirements.txt```
